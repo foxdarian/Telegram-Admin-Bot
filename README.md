@@ -63,7 +63,7 @@ python main.py
 
 ```text
 telegram-admin-bot/
-├── main.py
+├── main.py              # Main bot file
 ├── handlers/
 │   └── routes.py        # Message handlers and moderation rules
 ├── middleware/
